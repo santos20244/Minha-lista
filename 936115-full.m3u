@@ -40,11 +40,7 @@ http://bdtb.io:80/675800/vSphDb/71767.ts
 http://bdtb.io:80/675800/vSphDb/191339.ts
 #EXTINF:-1 tvg-name="AMC 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="Canais | 4K [FHDR]",AMC 4K FHDR
 http://bdtb.io:80/675800/vSphDb/90646.ts
-#EXTINF:-1 tvg-name="AMC BREAK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="PT: Filmes e Séries",AMC BREAK HD
-#EXTINF:-1 tvg-name="Zoo S03E10" tvg-logo="http://acsa.ws:80/images/uc7JijVE88SwXiuhNi5KcaskhZZ_small.jpg" group-title="Series | Amazon Prime Video",Zoo S03E10
-http://bdtb.io:80/series/675800/vSphDb/3401.mp4
-#EXTINF:-1 tvg-name="Zoo S01E07" tvg-logo="http://acsa.ws:80/images/dnIah2q8qj2UKhedtnNDn3Xo7QD_small.jpg" group-title="Series | Amazon Prime Video",Suzy Furacão S01E07
-http://bdtb.io:80/series/675800/vSphDb/3373.mp4
+
 #EXTINF:-1 tvg-name="Zoo S01E06" tvg-logo="http://acsa.ws:80/images/gMl2108Yyc0f2Psz2H877KsuYo4_small.jpg" group-title="Series | Amazon Prime Video",Suzy Furacão S01E06
 https://video-lm-b.xhcdn.com/token=nva=1704888000~dirs=5~hash=073eb47a3ddd92555abc4/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/022/797/240/_TPL_.av1.mp4.m3u
 #EXTINF:-1 tvg-name="Zoo S01E05" tvg-logo="http://acsa.ws:80/images/zSxuj2bNQMCLBYwLrGBIrcy2r7k_small.jpg" group-title="Series | Amazon Prime Video",Mundo S01E05
