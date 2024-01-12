@@ -69,3 +69,5 @@ https://cdn.jwplayer.com/manifests/LvmMMfwA.m3u8
 https://content.jwplatform.com/videos/LvmMMfwA-fif58Eu1.mp4
 #EXTINF:-1 tvg-name="Zoo S01E01" tvg-logo="http://acsa.ws:80/images/y7DV6v8YcshWXcAdvItx6Sa5GTD_small.jpg" group-title="Series | Amazon Prime Video",jwplayer mp4 S01E016
 https://content.jwplatform.com/videos/X2ctDFpr-x83xcoqi.mp4
+#EXTINF:-1 tvg-name="Zoo S01E01" tvg-logo="http://acsa.ws:80/images/y7DV6v8YcshWXcAdvItx6Sa5GTD_small.jpg" group-title="Series | Amazon Prime Video",jwplayer Isabela mp4 S01E016
+https://cdn.jwplayer.com/manifests/cTvEcTSY.m3u8
