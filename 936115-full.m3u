@@ -69,5 +69,17 @@ https://cdn.jwplayer.com/manifests/LvmMMfwA.m3u8
 https://content.jwplatform.com/videos/LvmMMfwA-fif58Eu1.mp4
 #EXTINF:-1 tvg-name="Zoo S01E01" tvg-logo="http://acsa.ws:80/images/y7DV6v8YcshWXcAdvItx6Sa5GTD_small.jpg" group-title="Series | Amazon Prime Video",jwplayer mp4 S01E016
 https://content.jwplatform.com/videos/X2ctDFpr-x83xcoqi.mp4
-#EXTINF:-1 tvg-name="Zoo S01E01" tvg-logo="https://cdn.jwplayer.com/v2/media/cTvEcTSY/thumbnails/t2pGhjCf.jpg" group-title="Series | Amazon Prime Video",jwplayer Isabela mp4 S01E016
-https://cdn.jwplayer.com/manifests/cTvEcTSY.m3u8
+#EXTINF:-1 tvg-name="Zoo S01E04" tvg-logo="http://acsa.ws:80/images/l3FfbwpdAnbluSvXynKjwxxgLvn_small.jpg" group-title="Series | Amazon Prime Video",Suzy 01
+https://content.jwplatform.com/videos/3HULjcvM-OYGesAyw.mp4
+#EXTINF:-1 tvg-name="Zoo S01E03" tvg-logo="http://acsa.ws:80/images/1bWks1An9XZrtLcEKxWm2oVxYfN_small.jpg" group-title="Series | Amazon Prime Video",Suzy 02
+https://content.jwplatform.com/videos/KLZsPaBy-vLoGOj0j.mp4
+#EXTINF:-1 tvg-name="Zoo S01E02" tvg-logo="http://acsa.ws:80/images/eyC8e7M1XO2G3ZGL7XybJ13vcBp_small.jpg" group-title="Series | Amazon Prime Video",Suzy 03
+https://content.jwplatform.com/videos/SiuanyOA-OYGesAyw.mp4
+#EXTINF:-1 tvg-name="Zoo S01E01" tvg-logo="http://acsa.ws:80/images/y7DV6v8YcshWXcAdvItx6Sa5GTD_small.jpg" group-title="Series | Amazon Prime Video",Negona
+https://content.jwplatform.com/videos/bV0XkvMe-OYGesAyw.mp4
+#EXTINF:-1 tvg-name="Zoo S01E02" tvg-logo="http://acsa.ws:80/images/eyC8e7M1XO2G3ZGL7XybJ13vcBp_small.jpg" group-title="Series | Amazon Prime Video",Coroa
+https://content.jwplatform.com/videos/7M8l4fI5-OYGesAyw.mp4
+#EXTINF:-1 tvg-name="Zoo S01E01" tvg-logo="http://acsa.ws:80/images/y7DV6v8YcshWXcAdvItx6Sa5GTD_small.jpg" group-title="Series | Amazon Prime Video",TS Branquinha
+https://content.jwplatform.com/videos/IcZMrN2D-OYGesAyw.mp4
+#EXTINF:-1 tvg-name="Zoo S01E01" tvg-logo="http://acsa.ws:80/images/y7DV6v8YcshWXcAdvItx6Sa5GTD_small.jpg" group-title="Series | Amazon Prime Video",TS Novinha
+https://content.jwplatform.com/videos/cTvEcTSY-OYGesAyw.mp4
