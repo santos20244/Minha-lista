@@ -8,3 +8,5 @@ https://cdn.jwplayer.com/manifests/f1dB5hE6.m3u8
 https://cdn.jwplayer.com/manifests/PXiOYQOx.m3u8
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/G0Dz5MMS-1920.jpg" group-title="YouTube ",Miah Fortunatto
 https://content.jwplatform.com/videos/G0Dz5MMS-x83xcoqi.mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/CwoeKNTy-720.jpg" group-title="YouTube ",Grazzi
+https://cdn.jwplayer.com/manifests/CwoeKNTy.m3u8
