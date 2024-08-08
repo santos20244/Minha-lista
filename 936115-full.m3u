@@ -1,11 +1,13 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/5quCgEQH-1920.jpg" group-title="YouTube ",Katia Fernanda
-https://cdn.jwplayer.com/manifests/5quCgEQH.m3u8
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/spTliGnR-1920.jpg" group-title="YouTube ",Katia Fernanda
+https://cdn.jwplayer.com/manifests/spTliGnR.m3u8
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/f1dB5hE6-1920.jpg" group-title="YouTube ",Mel souza
 https://cdn.jwplayer.com/manifests/f1dB5hE6.m3u8
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/PXiOYQOx-1920.jpg" group-title="YouTube ",Mayanne
 https://cdn.jwplayer.com/manifests/PXiOYQOx.m3u8
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/TAnNlM9V-1920.jpg" group-title="YouTube ",Beatriz Gomes
+https://cdn.jwplayer.com/manifests/TAnNlM9V.m3u8
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/G0Dz5MMS-1920.jpg" group-title="YouTube ",Miah Fortunatto
 https://content.jwplatform.com/videos/G0Dz5MMS-x83xcoqi.mp4
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/CwoeKNTy-720.jpg" group-title="YouTube ",Grazzi
