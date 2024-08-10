@@ -8,6 +8,8 @@ https://cdn.jwplayer.com/manifests/f1dB5hE6.m3u8
 https://cdn.jwplayer.com/manifests/PXiOYQOx.m3u8
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/TAnNlM9V-1920.jpg" group-title="YouTube ",Beatriz Gomes
 https://cdn.jwplayer.com/manifests/TAnNlM9V.m3u8
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/p06DC0ko-1920.jpg" group-title="YouTube ",Ester
+https://cdn.jwplayer.com/manifests/p06DC0ko.m3u8
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/G0Dz5MMS-1920.jpg" group-title="YouTube ",Miah Fortunatto
 https://content.jwplatform.com/videos/G0Dz5MMS-x83xcoqi.mp4
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/CwoeKNTy-720.jpg" group-title="YouTube ",Grazzi
