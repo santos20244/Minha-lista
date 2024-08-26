@@ -12,6 +12,12 @@ https://cdn.jwplayer.com/manifests/TAnNlM9V.m3u8
 https://cdn.jwplayer.com/manifests/p06DC0ko.m3u8
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/2l8aotcb-1920.jpg" group-title="YouTube ",Vitorinha
 https://cdn.jwplayer.com/manifests/2l8aotcb.m3u8
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/USYRWT3P-1920.jpg" group-title="YouTube ",Marlana Barbosa
+https://cdn.jwplayer.com/manifests/USYRWT3P.m3u8
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/OnHtYCZl-1920.jpg" group-title="YouTube ",Kamille Dias
+https://cdn.jwplayer.com/manifests/OnHtYCZl.m3u8
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/uL9rnDMJ-1920.jpg" group-title="YouTube ",Isabel Gomes
+https://cdn.jwplayer.com/manifests/uL9rnDMJ.m3u8
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/G0Dz5MMS-1920.jpg" group-title="YouTube ",Miah Fortunatto
 https://content.jwplatform.com/videos/G0Dz5MMS-x83xcoqi.mp4
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/CwoeKNTy-720.jpg" group-title="YouTube ",Grazzi
