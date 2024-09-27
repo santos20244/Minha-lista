@@ -18,5 +18,7 @@ https://cdn.jwplayer.com/manifests/USYRWT3P.m3u8
 https://cdn.jwplayer.com/manifests/OnHtYCZl.m3u8
 #EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/uL9rnDMJ-1920.jpg" group-title="YouTube ",Isabel Gomes
 https://cdn.jwplayer.com/manifests/uL9rnDMJ.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/uL9rnDMJ-1920.jpg" group-title="YouTube ",Natty EROME
+#EXTINF:-1 tvg-name="xxx" tvg-logo="" group-title="YouTube ",Natty EROME
 https://v12.erome.com/817/5Uc3a0CT/JKf5tDtA_720p.mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://v103.erome.com/2933/8vNOl9Lr/JqFEHxeH_720p.mp4" group-title="YouTube ",Queen Arri EROME
+https://v103.erome.com/2933/8vNOl9Lr/JqFEHxeH_720p.mp4
