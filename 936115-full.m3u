@@ -1,24 +1,41 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/spTliGnR-1920.jpg" group-title="YouTube ",Katia Fernanda
-https://cdn.jwplayer.com/manifests/spTliGnR.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/f1dB5hE6-1920.jpg" group-title="YouTube ",Mel souza
-https://cdn.jwplayer.com/manifests/f1dB5hE6.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/PXiOYQOx-1920.jpg" group-title="YouTube ",Mayanne
-https://cdn.jwplayer.com/manifests/PXiOYQOx.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/TAnNlM9V-1920.jpg" group-title="YouTube ",Beatriz Gomes
-https://cdn.jwplayer.com/manifests/TAnNlM9V.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/p06DC0ko-1920.jpg" group-title="YouTube ",Ester
-https://cdn.jwplayer.com/manifests/p06DC0ko.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/2l8aotcb-1920.jpg" group-title="YouTube ",Vitorinha
-https://cdn.jwplayer.com/manifests/2l8aotcb.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/USYRWT3P-1920.jpg" group-title="YouTube ",Marlana Barbosa
-https://cdn.jwplayer.com/manifests/USYRWT3P.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/OnHtYCZl-1920.jpg" group-title="YouTube ",Kamille Dias
-https://cdn.jwplayer.com/manifests/OnHtYCZl.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://cdn.jwplayer.com/thumbs/uL9rnDMJ-1920.jpg" group-title="YouTube ",Isabel Gomes
-https://cdn.jwplayer.com/manifests/uL9rnDMJ.m3u8
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/ssstik.io_1735891842222.png" group-title="YouTube ",Laysa Ketilly test
-https://m-e-u-v-i-d-e-o-s.b-cdn.net/ssstik.io_1735891842222.mp4
-#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/ssstik.io_1735891877451.jpg" group-title="YouTube ",Laysa Ketilly 2
-https://m-e-u-v-i-d-e-o-s.b-cdn.net/ssstik.io_1735891877451.mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(1).mp4_snapshot_00.05.807.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(1).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(10).mp4_snapshot_00.00.368.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(10).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(11).mp4_snapshot_00.01.923.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(11).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(12).mp4_snapshot_00.00.461.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(12).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(13).mp4_snapshot_00.00.470.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(13).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(2).mp4_snapshot_00.00.326.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(2).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(3).mp4_snapshot_00.00.000.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(3).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(4).mp4_snapshot_00.04.280.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(4).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(5).mp4_snapshot_00.10.776.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(5).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(6).mp4_snapshot_00.00.730.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(6).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(7).mp4_snapshot_00.00.492.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(7).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(8).mp4_snapshot_00.00.460.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(8).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(9).mp4_snapshot_00.00.402.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download%20(9).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download.mp4_snapshot_00.01.006.jpg" group-title="Laysa Ketilly ",Laysa Ketilly
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Laysa%20Ketilly/Download.mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download%20(1).mp4_snapshot_00.08.333.jpg" group-title="Nathalia Ottoni ",Nathalia Ottoni
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download%20(1).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download%20(2).mp4_snapshot_00.33.333.jpg" group-title="Nathalia Ottoni ",Nathalia Ottoni
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download%20(2).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download%20(3).mp4_snapshot_00.08.333.jpg" group-title="Nathalia Ottoni ",Nathalia Ottoni
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download%20(3).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download%20(4).mp4_snapshot_00.16.666.jpg" group-title="Nathalia Ottoni ",Nathalia Ottoni
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download%20(4).mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download.mp4_snapshot_00.00.000.jpg" group-title="Nathalia Ottoni ",Nathalia Ottoni
+https://m-e-u-v-i-d-e-o-s.b-cdn.net/Nathalia%20Ottoni/Download.mp4
+#EXTINF:-1 tvg-name="xxx" tvg-logo="                                               " group-title="Laysa Ketilly ",Laysa Ketilly
